@@ -7,6 +7,6 @@
 
 ![img_2.png](img_2.png)
 <h3>Asymmetric Encryption Test</h3>
-<p>The test passed successfully, we encrypted and decrypted the plainText, we found that the plainText equal the decryptedText.</p>
+<p>Encrypted and decrypted the plainText test passed successfully, that means that the plainText equal the decryptedText.</p>
 
 ![img_1.png](img_1.png)
